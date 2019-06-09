@@ -1,0 +1,3 @@
+not null - azul
+
+null - branco
